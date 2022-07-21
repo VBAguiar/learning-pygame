@@ -1,0 +1,6 @@
+[submodule "goalkeeper"]
+	path = goalkeeper
+	url = git@github.com:VBAguiar/goalkeeper.git
+[submodule "square-game"]
+	path = square-game
+	url = git@github.com:VBAguiar/square-game.git
